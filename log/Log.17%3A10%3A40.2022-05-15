@@ -1,0 +1,41 @@
+BOT Server started...
+Prepering to connect to the database...
+Database connection established!
+Syncronizing database with discord bot...
+Syncronization finished!
+Bot is running!
+Fetching the music from youtube: cine bate noaptea la fereastra mea
+Creating a voice channel connection...
+[33mWARNING:[0m ytdl-core is out of date! Update with "npm install ytdl-core@latest".
+Getting the music from the database: am citit in horoscop
+Fetching the music from youtube: https://www.youtube.com/watch?v=kalkXhaPiDs&list=PLwECIKPmf2rI0Zjfweew8OA176MfLBks2
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=LdTCw37n53s
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9)
+    at TLSSocket.Readable.push (internal/streams/readable.js:204:10) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=ZB0wG1pbkF8
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)

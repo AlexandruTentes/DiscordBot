@@ -1,0 +1,3358 @@
+BOT Server started...
+Prepering to connect to the database...
+Database connection established!
+Syncronizing database with discord bot...
+Syncronization finished!
+Bot is running!
+Getting the music from the database: James Brown - It's A Man's Man's Man's World
+Creating a voice channel connection...
+[33mWARNING:[0m ytdl-core is out of date! Update with "npm install ytdl-core@latest".
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9)
+    at TLSSocket.Readable.push (internal/streams/readable.js:204:10) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+(node:20896) UnhandledPromiseRejectionWarning: ReferenceError: troll_msg is not defined
+    at Client.on_client_message (/home/pi/DiscordBot/Event.js:159:13)
+    at Client.emit (events.js:400:28)
+    at MessageCreateAction.handle (/home/pi/DiscordBot/node_modules/discord.js/src/client/actions/MessageCreate.js:31:14)
+    at Object.module.exports [as MESSAGE_CREATE] (/home/pi/DiscordBot/node_modules/discord.js/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+    at WebSocketManager.handlePacket (/home/pi/DiscordBot/node_modules/discord.js/src/client/websocket/WebSocketManager.js:384:31)
+    at WebSocketShard.onPacket (/home/pi/DiscordBot/node_modules/discord.js/src/client/websocket/WebSocketShard.js:444:22)
+    at WebSocketShard.onMessage (/home/pi/DiscordBot/node_modules/discord.js/src/client/websocket/WebSocketShard.js:301:10)
+    at WebSocket.onMessage (/home/pi/DiscordBot/node_modules/ws/lib/event-target.js:132:16)
+    at WebSocket.emit (events.js:400:28)
+    at Receiver.receiverOnMessage (/home/pi/DiscordBot/node_modules/ws/lib/websocket.js:983:20)
+    at emitUnhandledRejectionWarning (internal/process/promises.js:168:15)
+    at processPromiseRejections (internal/process/promises.js:247:11)
+    at processTicksAndRejections (internal/process/task_queues.js:96:32)
+(node:20896) ReferenceError: troll_msg is not defined
+    at Client.on_client_message (/home/pi/DiscordBot/Event.js:159:13)
+    at Client.emit (events.js:400:28)
+    at MessageCreateAction.handle (/home/pi/DiscordBot/node_modules/discord.js/src/client/actions/MessageCreate.js:31:14)
+    at Object.module.exports [as MESSAGE_CREATE] (/home/pi/DiscordBot/node_modules/discord.js/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+    at WebSocketManager.handlePacket (/home/pi/DiscordBot/node_modules/discord.js/src/client/websocket/WebSocketManager.js:384:31)
+    at WebSocketShard.onPacket (/home/pi/DiscordBot/node_modules/discord.js/src/client/websocket/WebSocketShard.js:444:22)
+    at WebSocketShard.onMessage (/home/pi/DiscordBot/node_modules/discord.js/src/client/websocket/WebSocketShard.js:301:10)
+    at WebSocket.onMessage (/home/pi/DiscordBot/node_modules/ws/lib/event-target.js:132:16)
+    at WebSocket.emit (events.js:400:28)
+    at Receiver.receiverOnMessage (/home/pi/DiscordBot/node_modules/ws/lib/websocket.js:983:20)
+(node:20896) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+    at emitDeprecationWarning (internal/process/promises.js:180:11)
+    at processPromiseRejections (internal/process/promises.js:249:13)
+    at processTicksAndRejections (internal/process/task_queues.js:96:32)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 2)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 3)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 2)
+Database connection closed, attempting reconnection
+Database connection established!
+Creating a voice channel connection...
+Fetching the music from youtube: lasa-ma mandruto
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9)
+    at TLSSocket.Readable.push (internal/streams/readable.js:204:10) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+Fetching the music from youtube: https://www.youtube.com/watch?v=J7ikm0cI9vE&t=62s&ab_channel=TeBateBamas
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+Fetching the music from youtube: https://www.youtube.com/watch?v=_dpBnMc7qwk&ab_channel=InMinteaLuiAndrew
+Youtube token 'AIzaSyB4AZ7utxv_wFYpxWX09mn4FQHCdESW5zA' expired!
+Fetching the music from youtube: https://www.youtube.com/watch?v=_dpBnMc7qwk&ab_channel=InMinteaLuiAndrew
+Youtube token 'AIzaSyBD1GESqVnBBp8U9Diz5gNbY6kqWvTvcjU' expired!
+Fetching the music from youtube: https://www.youtube.com/watch?v=_dpBnMc7qwk&ab_channel=InMinteaLuiAndrew
+Youtube token 'AIzaSyCMW6YL4_kwJVgVJYg-RaTqBCCIMIFUuQM' expired!
+Fetching the music from youtube: https://www.youtube.com/watch?v=_dpBnMc7qwk&ab_channel=InMinteaLuiAndrew
+Error: Couldn't retrieve video
+    at YouTube.searchVideos (/home/pi/DiscordBot/YouTube.js:41:10)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async Bot.play_song (/home/pi/DiscordBot/Bot.js:533:26)
+Fetching the music from youtube: https://www.youtube.com/watch?v=_dpBnMc7qwk&ab_channel=InMinteaLuiAndrew
+Error: Couldn't retrieve video
+    at YouTube.searchVideos (/home/pi/DiscordBot/YouTube.js:41:10)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async Bot.play_song (/home/pi/DiscordBot/Bot.js:533:26)
+Fetching the music from youtube: https://www.youtube.com/watch?v=_dpBnMc7qwk&ab_channel=InMinteaLuiAndrew
+Error: Couldn't retrieve video
+    at YouTube.searchVideos (/home/pi/DiscordBot/YouTube.js:41:10)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async Bot.play_song (/home/pi/DiscordBot/Bot.js:533:26)
+Getting the music from the cache: lasa-ma mandruto
+Creating a voice channel connection...
+Fetching the music from youtube: https://www.youtube.com/watch?v=_dpBnMc7qwk&ab_channel=InMinteaLuiAndrew
+Youtube token 'AIzaSyB4AZ7utxv_wFYpxWX09mn4FQHCdESW5zA' expired!
+Fetching the music from youtube: https://www.youtube.com/watch?v=_dpBnMc7qwk&ab_channel=InMinteaLuiAndrew
+Youtube token 'AIzaSyBD1GESqVnBBp8U9Diz5gNbY6kqWvTvcjU' expired!
+Fetching the music from youtube: https://www.youtube.com/watch?v=_dpBnMc7qwk&ab_channel=InMinteaLuiAndrew
+Youtube token 'AIzaSyCMW6YL4_kwJVgVJYg-RaTqBCCIMIFUuQM' expired!
+Fetching the music from youtube: https://www.youtube.com/watch?v=_dpBnMc7qwk&ab_channel=InMinteaLuiAndrew
+Error: Couldn't retrieve video
+    at YouTube.searchVideos (/home/pi/DiscordBot/YouTube.js:41:10)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async Bot.play_song (/home/pi/DiscordBot/Bot.js:533:26)
+Fetching the music from youtube: Alexandru Gura de Aur - Musca (Official Video) | YouTubers Sing
+Fetching the music from youtube: Ionut Lenghel - DE-AS AVEA DOUA GURI (Official Video) | YouTubers Sing
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=_dpBnMc7qwk
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=rq5KKfQBQA8
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+[33mWARNING:[0m ytdl-core is out of date! Update with "npm install ytdl-core@latest".
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=rq5KKfQBQA8
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=rq5KKfQBQA8
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=rq5KKfQBQA8
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=rq5KKfQBQA8
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=rq5KKfQBQA8
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=rq5KKfQBQA8
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=rq5KKfQBQA8
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=rq5KKfQBQA8
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 2)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 3)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=rq5KKfQBQA8
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=rq5KKfQBQA8
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=rq5KKfQBQA8
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=rq5KKfQBQA8
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=rq5KKfQBQA8
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=rq5KKfQBQA8
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=rq5KKfQBQA8
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 2)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=rq5KKfQBQA8
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 3)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=rq5KKfQBQA8
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=rq5KKfQBQA8
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=rq5KKfQBQA8
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 2)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 3)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=rq5KKfQBQA8
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=rq5KKfQBQA8
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=rq5KKfQBQA8
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=rq5KKfQBQA8
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=rq5KKfQBQA8
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=rq5KKfQBQA8
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=rq5KKfQBQA8
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=rq5KKfQBQA8
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=rq5KKfQBQA8
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=rq5KKfQBQA8
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=rq5KKfQBQA8
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=rq5KKfQBQA8
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=rq5KKfQBQA8
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=rq5KKfQBQA8
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 2)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=rq5KKfQBQA8
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 3)
+[33mWARNING:[0m ytdl-core is out of date! Update with "npm install ytdl-core@latest".
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=rq5KKfQBQA8
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=rq5KKfQBQA8
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=rq5KKfQBQA8
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=rq5KKfQBQA8
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=rq5KKfQBQA8
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=rq5KKfQBQA8
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=rq5KKfQBQA8
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=rq5KKfQBQA8
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=rq5KKfQBQA8
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=rq5KKfQBQA8
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=rq5KKfQBQA8
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=rq5KKfQBQA8
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=rq5KKfQBQA8
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 2)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=rq5KKfQBQA8
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 3)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=rq5KKfQBQA8
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=rq5KKfQBQA8
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=rq5KKfQBQA8
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=rq5KKfQBQA8
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=rq5KKfQBQA8
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 2)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 3)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=rq5KKfQBQA8
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=rq5KKfQBQA8
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=rq5KKfQBQA8
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=rq5KKfQBQA8
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=rq5KKfQBQA8
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+[33mWARNING:[0m ytdl-core is out of date! Update with "npm install ytdl-core@latest".
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=rq5KKfQBQA8
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=rq5KKfQBQA8
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=rq5KKfQBQA8
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=rq5KKfQBQA8
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=rq5KKfQBQA8
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 2)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 3)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=rq5KKfQBQA8
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=rq5KKfQBQA8
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=rq5KKfQBQA8
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=rq5KKfQBQA8
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=rq5KKfQBQA8
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 2)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=rq5KKfQBQA8
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=rq5KKfQBQA8
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=rq5KKfQBQA8
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=rq5KKfQBQA8
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=rq5KKfQBQA8
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 2)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=rq5KKfQBQA8
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 3)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=rq5KKfQBQA8
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=rq5KKfQBQA8
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=rq5KKfQBQA8
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 2)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=rq5KKfQBQA8
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 3)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=rq5KKfQBQA8
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=rq5KKfQBQA8
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=rq5KKfQBQA8
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=rq5KKfQBQA8
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=rq5KKfQBQA8
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=rq5KKfQBQA8
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=rq5KKfQBQA8
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=rq5KKfQBQA8
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+[33mWARNING:[0m ytdl-core is out of date! Update with "npm install ytdl-core@latest".
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=rq5KKfQBQA8
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=rq5KKfQBQA8
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=rq5KKfQBQA8
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=rq5KKfQBQA8
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=rq5KKfQBQA8
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=rq5KKfQBQA8
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=rq5KKfQBQA8
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=rq5KKfQBQA8
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=rq5KKfQBQA8
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=rq5KKfQBQA8
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=rq5KKfQBQA8
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=rq5KKfQBQA8
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=rq5KKfQBQA8
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=rq5KKfQBQA8
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=rq5KKfQBQA8
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=rq5KKfQBQA8
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=rq5KKfQBQA8
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 2)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 3)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+[33mWARNING:[0m ytdl-core is out of date! Update with "npm install ytdl-core@latest".
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)

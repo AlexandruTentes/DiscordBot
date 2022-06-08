@@ -1,0 +1,3833 @@
+BOT Server started...
+Prepering to connect to the database...
+Database connection established!
+Syncronizing database with discord bot...
+Syncronization finished!
+Bot is running!
+Fetching the music from youtube:  https://www.youtube.com/watch?v=J7ikm0cI9vE&t=62s&ab_channel=TeBateBamas
+Creating a voice channel connection...
+[33mWARNING:[0m ytdl-core is out of date! Update with "npm install ytdl-core@latest".
+Fetching the music from youtube: https://www.youtube.com/watch?v=D8-g8CpXdO8&list=PLtWFCfEtSuAdy0Sz4JEzJP6XqE9CNHGvc
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=D8-g8CpXdO8
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+Fetching the music from youtube: TiK ToK Kesha 
+Creating a voice channel connection...
+Getting the music from the cache: TiK ToK Kesha 
+Creating a voice channel connection...
+Fetching the music from youtube: https://www.youtube.com/watch?v=kalkXhaPiDs&list=PLwECIKPmf2rI0Zjfweew8OA176MfLBks2
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=X0h1b8jSns8
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=VUkUi260Sn8
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+Fetching the music from youtube: Airplanes feat Hayley Williams of Paramore BoB Hayley Williams 
+Fetching the music from youtube: Dynamite Taio Cruz 
+Fetching the music from youtube: Only Girl In The World Rihanna 
+Fetching the music from youtube: Love The Way You Lie Eminem Rihanna 
+Fetching the music from youtube: California Gurls Katy Perry Snoop Dogg 
+Fetching the music from youtube: DJ Got Us Fallin In Love feat Pitbull Usher Pitbull 
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=C-dvTjK_07c
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+Fetching the music from youtube: Whatcha Say Jason Derulo 
+Fetching the music from youtube: Replay Iyaz 
+Fetching the music from youtube: Eenie Meenie Sean Kingston Justin Bieber 
+Fetching the music from youtube: Club Cant Handle Me feat David Guetta Flo Rida David Guetta 
+Fetching the music from youtube: Break Your Heart Taio Cruz 
+Fetching the music from youtube: Billionaire feat Bruno Mars Travie McCoy Bruno Mars 
+Fetching the music from youtube: Just A Dream Nelly 
+Fetching the music from youtube: Like A G6 Far East Movement The Cataracs DEV 
+Fetching the music from youtube: Nothin on You feat Bruno Mars BoB Bruno Mars 
+Fetching the music from youtube: Whats My Name Rihanna Drake 
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=U0CGsw6h60k
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+Fetching the music from youtube: Hey Soul Sister Train 
+Fetching the music from youtube: Wavin Flag KNAAN 
+Fetching the music from youtube: Rude Boy Rihanna 
+Fetching the music from youtube: Written in the Stars feat Eric Turner Tinie Tempah Eric Turner 
+Fetching the music from youtube: Not Afraid Eminem 
+Fetching the music from youtube: Memories feat Kid Cudi David Guetta Kid Cudi 
+Fetching the music from youtube: Right Above It Lil Wayne Drake 
+Fetching the music from youtube: Empire State of Mind Part II Broken Down Alicia Keys 
+Fetching the music from youtube: Rolling in the Deep Adele 
+Fetching the music from youtube: Moves Like Jagger  Studio Recording From The Voice Performance Maroon 5 Christina Aguilera 
+Fetching the music from youtube: Party Rock Anthem LMFAO Lauren Bennett GoonRock 
+Fetching the music from youtube: Firework Katy Perry 
+Fetching the music from youtube: Grenade Bruno Mars 
+Fetching the music from youtube: We R Who We R Kesha 
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=mXvmSaE0JXA
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+Fetching the music from youtube: Give Me Everything feat NeYo Afrojack  Nayer Pitbull NeYo Afrojack Nayer 
+Fetching the music from youtube: Stereo Hearts feat Adam Levine Gym Class Heroes Adam Levine 
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=T3E9Wjbq44E
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+Fetching the music from youtube: Where Them Girls At feat Nicki Minaj  Flo Rida David Guetta 
+Fetching the music from youtube: Dont Wanna Go Home Jason Derulo 
+Fetching the music from youtube: Without You feat Usher David Guetta Usher 
+Fetching the music from youtube: We Found Love Rihanna Calvin Harris 
+Fetching the music from youtube: Just Can’t Get Enough Black Eyed Peas 
+Fetching the music from youtube: SM Rihanna 
+Fetching the music from youtube: Price Tag Jessie J BoB 
+Fetching the music from youtube: Whos That Chick feat Rihanna David Guetta 
+Fetching the music from youtube: The Lazy Song Bruno Mars 
+Fetching the music from youtube: Fkin Perfect Pnk 
+Fetching the music from youtube: All Of The Lights Kanye West 
+Fetching the music from youtube: Look At Me Now feat Lil Wayne  Busta Rhymes Chris Brown Lil Wayne Busta Rhymes 
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=8gyLR4NfMiI
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+Fetching the music from youtube: Sexy And I Know It LMFAO 
+Fetching the music from youtube: Down On Me Jeremih 50 Cent 
+Fetching the music from youtube: Read All About It Professor Green Emeli Sande 
+Fetching the music from youtube: Save The World Swedish House Mafia 
+Fetching the music from youtube: Someone Like You Adele 
+Fetching the music from youtube: Call Me Maybe Carly Rae Jepsen 
+Fetching the music from youtube: Die Young Kesha 
+Fetching the music from youtube: Starships Nicki Minaj 
+Fetching the music from youtube: Wild Ones feat Sia Flo Rida Sia 
+Fetching the music from youtube: Good Time Owl City Carly Rae Jepsen 
+Fetching the music from youtube: International Love feat Chris Brown Pitbull Chris Brown 
+Fetching the music from youtube: Domino Jessie J 
+Fetching the music from youtube: Whistle Flo Rida 
+Fetching the music from youtube: Drive By Train 
+Fetching the music from youtube: Good Feeling Flo Rida 
+Fetching the music from youtube: One More Night Maroon 5 
+Fetching the music from youtube: Hall of Fame feat william The Script william 
+Fetching the music from youtube: Young Wild  Free feat Bruno Mars Snoop Dogg Wiz Khalifa Bruno Mars 
+Fetching the music from youtube: How We Do Party Rita Ora 
+Fetching the music from youtube: Dont You Worry Child  Radio Edit Swedish House Mafia John Martin 
+Fetching the music from youtube: Where Have You Been Rihanna 
+Fetching the music from youtube: Feel So Close  Radio Edit Calvin Harris 
+Fetching the music from youtube: Turn Me On feat Nicki Minaj David Guetta Nicki Minaj 
+Fetching the music from youtube: She Doesnt Mind Sean Paul 
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=SbUBMklQSVU
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+Fetching the music from youtube: Locked out of Heaven Bruno Mars 
+Fetching the music from youtube: Titanium feat Sia David Guetta Sia 
+Fetching the music from youtube: Take Care Drake Rihanna 
+Fetching the music from youtube: Diamonds Rihanna 
+Fetching the music from youtube: Hot Right Now feat RITA ORA  Radio Edit DJ Fresh Rita Ora 
+Fetching the music from youtube: This Is Love william Eva Simons 
+Fetching the music from youtube: Nias In Paris JAYZ Kanye West 
+Fetching the music from youtube: Somebody That I Used To Know Gotye Kimbra 
+Fetching the music from youtube: Impossible James Arthur 
+Fetching the music from youtube: Blurred Lines Robin Thicke TI Pharrell Williams 
+Fetching the music from youtube: Radioactive Imagine Dragons 
+Fetching the music from youtube: Wake Me Up Avicii 
+Fetching the music from youtube: Thrift Shop feat Wanz Macklemore  Ryan Lewis Wanz 
+Fetching the music from youtube: Get Lucky feat Pharrell Williams  Nile Rodgers  Radio Edit Daft Punk Pharrell Williams Nile Rodgers 
+Fetching the music from youtube: I Cry Flo Rida 
+Fetching the music from youtube: Talk Dirty feat 2 Chainz Jason Derulo 2 Chainz 
+Fetching the music from youtube: The Monster Eminem Rihanna 
+Fetching the music from youtube: Scream  Shout william Britney Spears 
+Fetching the music from youtube: I Need Your Love feat Ellie Goulding Calvin Harris Ellie Goulding 
+Fetching the music from youtube: Pompeii Bastille 
+Fetching the music from youtube: thatPOWER william Justin Bieber 
+Fetching the music from youtube: Play Hard feat NeYo  Akon David Guetta 
+Fetching the music from youtube: Wrecking Ball Miley Cyrus 
+Fetching the music from youtube: La La La Naughty Boy Sam Smith 
+Fetching the music from youtube: Safe And Sound Capital Cities 
+Fetching the music from youtube: We Own It Fast  Furious 2 Chainz Wiz Khalifa 
+Fetching the music from youtube: Demons Imagine Dragons 
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=mWRsgZuwf_8
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+Fetching the music from youtube: Stay Rihanna Mikky Ekko 
+Youtube token 'AIzaSyB4AZ7utxv_wFYpxWX09mn4FQHCdESW5zA' expired!
+Fetching the music from youtube: Stay Rihanna Mikky Ekko 
+Youtube token 'AIzaSyBD1GESqVnBBp8U9Diz5gNbY6kqWvTvcjU' expired!
+Fetching the music from youtube: Stay Rihanna Mikky Ekko 
+Youtube token 'AIzaSyCMW6YL4_kwJVgVJYg-RaTqBCCIMIFUuQM' expired!
+Fetching the music from youtube: Stay Rihanna Mikky Ekko 
+Error: Couldn't retrieve video
+    at YouTube.searchVideos (/home/pi/DiscordBot/YouTube.js:41:10)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async Bot.dynamic_play_song (/home/pi/DiscordBot/Bot.js:64:20)
+Database connection closed, attempting reconnection
+Database connection established!
+Getting the music from the database: hee hee
+[33mWARNING:[0m ytdl-core is out of date! Update with "npm install ytdl-core@latest".
+Fetching the music from youtube: Stay Rihanna Mikky Ekko 
+Fetching the music from youtube: This Is What It Feels Like Armin van Buuren Trevor Guthrie 
+Fetching the music from youtube: Reload  Radio Edit Sebastian Ingrosso Tommy Trash John Martin 
+Fetching the music from youtube: Happy  From Despicable Me 2 Pharrell Williams 
+Database connection closed, attempting reconnection
+Database connection established!
+Fetching the music from youtube: gherman
+[33mWARNING:[0m ytdl-core is out of date! Update with "npm install ytdl-core@latest".
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=vbqqJaqB0h8
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+Fetching the music from youtube: gigole
+Fetching the music from youtube: gigolo
+Fetching the music from youtube: yo soy uno gigolo
+Fetching the music from youtube: lc waikiki
+Getting the music from the cache: yo soy uno gigolo
+Database connection closed, attempting reconnection
+Database connection established!
+Creating a voice channel connection...
+Getting the music from the database: si cand mor am valoare
+Creating a voice channel connection...
+TypeError: Cannot read property 'setSelfDeaf' of undefined
+    at Bot.pupulate_song_queue (/home/pi/DiscordBot/Bot.js:384:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async Bot.play_song (/home/pi/DiscordBot/Bot.js:593:2)
+Getting the music from the cache: https://www.youtube.com/watch?v=gKQ0QIa9tFY
+[33mWARNING:[0m ytdl-core is out of date! Update with "npm install ytdl-core@latest".
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=gKQ0QIa9tFY
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=gKQ0QIa9tFY
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+Fetching the music from youtube: https://www.youtube.com/watch?v=cYzJVZv-EWc&list=RDMMcYzJVZv-EWc&start_radio=1
+Creating a voice channel connection...
+Fetching the music from youtube: https://www.youtube.com/watch?v=WHyHdmaiErw&list=RDWHyHdmaiErw&start_radio=1
+Fetching the music from youtube: https://www.youtube.com/watch?v=I1klbTzBQpk&list=RDGMEMQ1dJ7wXfLlqCjwV0xfSNbAVMI1klbTzBQpk&start_radio=1
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=1kbN7XV3O5A
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+Getting the music from the cache: https://www.youtube.com/watch?v=cYzJVZv-EWc&list=RDMMcYzJVZv-EWc&start_radio=1
+Creating a voice channel connection...
+Getting the music from the database: https://www.youtube.com/watch?v=I1klbTzBQpk
+Fetching the music from youtube: https://www.youtube.com/watch?v=WHyHdmaiErw
+Getting the music from the cache: https://www.youtube.com/watch?v=I1klbTzBQpk
+Creating a voice channel connection...
+Getting the music from the cache: https://www.youtube.com/watch?v=WHyHdmaiErw
+Getting the music from the database: https://www.youtube.com/watch?v=cYzJVZv-EWc
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+Fetching the music from youtube: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+Attempting to fix retrieving the song... (try: 2)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+Attempting to fix retrieving the song... (try: 3)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+Attempting to fix retrieving the song... (try: 4)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+Attempting to fix retrieving the song... (try: 5)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+MinigetError: input stream: Status code: 410
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 410
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+Attempting to fix retrieving the song... (try: 2)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+Attempting to fix retrieving the song... (try: 3)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+Attempting to fix retrieving the song... (try: 4)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+Attempting to fix retrieving the song... (try: 5)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9)
+    at TLSSocket.Readable.push (internal/streams/readable.js:204:10) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+[33mWARNING:[0m ytdl-core is out of date! Update with "npm install ytdl-core@latest".
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 2)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 3)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9)
+    at TLSSocket.Readable.push (internal/streams/readable.js:204:10) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9)
+    at TLSSocket.Readable.push (internal/streams/readable.js:204:10) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=Mr1UEa1eP1o
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+Database connection closed, attempting reconnection
+Database connection established!
+Fetching the music from youtube: Willie Spence cover “Rihanna” DiamondsFull Version
+Getting the music from the cache: Willie Spence cover “Rihanna” DiamondsFull Version
+Creating a voice channel connection...
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 2)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 3)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 2)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+[33mWARNING:[0m ytdl-core is out of date! Update with "npm install ytdl-core@latest".
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9)
+    at TLSSocket.Readable.push (internal/streams/readable.js:204:10) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+[33mWARNING:[0m ytdl-core is out of date! Update with "npm install ytdl-core@latest".
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9)
+    at TLSSocket.Readable.push (internal/streams/readable.js:204:10) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+Database connection closed, attempting reconnection
+Database connection established!
+Creating a voice channel connection...
+Fetching the music from youtube: https://www.youtube.com/watch?v=vgKClbZZeko&list=RDvgKClbZZeko&start_radio=1&ab_channel=VasileBrovcenco
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=W5hb-9-R1VQ
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9)
+    at TLSSocket.Readable.push (internal/streams/readable.js:204:10) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9)
+    at TLSSocket.Readable.push (internal/streams/readable.js:204:10) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 2)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 3)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+[33mWARNING:[0m ytdl-core is out of date! Update with "npm install ytdl-core@latest".
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+[33mWARNING:[0m ytdl-core is out of date! Update with "npm install ytdl-core@latest".
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+Database connection closed, attempting reconnection
+Database connection established!
+Creating a voice channel connection...
+Fetching the music from youtube: James Brown - It's a Man's World
+Getting the music from the database: Willie Spence cover “Rihanna” Diamonds
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+Fetching the music from youtube: ma insor la anul in mai]
+Creating a voice channel connection...
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+Fetching the music from youtube: https://www.youtube.com/watch?v=BuqX__VVkW8
+Youtube token 'AIzaSyB4AZ7utxv_wFYpxWX09mn4FQHCdESW5zA' expired!
+Fetching the music from youtube: https://www.youtube.com/watch?v=BuqX__VVkW8
+Getting the music from the cache: https://www.youtube.com/watch?v=BuqX__VVkW8
+Creating a voice channel connection...
+Fetching the music from youtube: bosquito pepita
+Fetching the music from youtube: https://www.youtube.com/watch?v=vNShGL3PB3M
+[33mWARNING:[0m ytdl-core is out of date! Update with "npm install ytdl-core@latest".
+Fetching the music from youtube: eu beau vinul cu paharul
+Fetching the music from youtube: https://www.youtube.com/watch?v=NDp60Rjxxb8
+Fetching the music from youtube: o-zone dragostea din tei
+Getting the music from the cache: o-zone dragostea din tei
+Fetching the music from youtube: https://www.youtube.com/watch?v=hPoB17ovTTQ
+Fetching the music from youtube: https://www.youtube.com/watch?v=16N8Zhhhins
+Fetching the music from youtube: https://www.youtube.com/watch?v=Mzr8wrUizE4
+Getting the music from the cache: https://www.youtube.com/watch?v=hPoB17ovTTQ
+Getting the music from the database: https://www.youtube.com/watch?v=0NZgGgB25F4
+Fetching the music from youtube: halogen u got that
+Fetching the music from youtube: https://www.youtube.com/watch?v=rq5KKfQBQA8&ab_channel=InMinteaLuiAndrew
+Fetching the music from youtube: https://www.youtube.com/watch?v=p-Z3YrHJ1sU
+Fetching the music from youtube: https://www.youtube.com/watch?v=5Qu4UqmgJao
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+Getting the music from the cache: https://www.youtube.com/watch?v=rq5KKfQBQA8&ab_channel=InMinteaLuiAndrew
+Fetching the music from youtube: https://www.youtube.com/watch?v=LlNQZU3_ZvE
+Fetching the music from youtube: https://www.youtube.com/watch?v=ane4ywVhLW0
+Fetching the music from youtube: https://www.youtube.com/watch?v=fUiVa6ElSq8
+Youtube token 'AIzaSyBD1GESqVnBBp8U9Diz5gNbY6kqWvTvcjU' expired!
+Fetching the music from youtube: https://www.youtube.com/watch?v=fUiVa6ElSq8
+Youtube token 'AIzaSyCMW6YL4_kwJVgVJYg-RaTqBCCIMIFUuQM' expired!
+Fetching the music from youtube: https://www.youtube.com/watch?v=fUiVa6ElSq8
+Error: Couldn't retrieve video
+    at YouTube.searchVideos (/home/pi/DiscordBot/YouTube.js:41:10)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async Bot.play_song (/home/pi/DiscordBot/Bot.js:533:26)
+Fetching the music from youtube: https://www.youtube.com/watch?v=fUiVa6ElSq8
+Error: Couldn't retrieve video
+    at YouTube.searchVideos (/home/pi/DiscordBot/YouTube.js:41:10)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async Bot.play_song (/home/pi/DiscordBot/Bot.js:533:26)
+Fetching the music from youtube: https://www.youtube.com/watch?v=fUiVa6ElSq8
+Error: Couldn't retrieve video
+    at YouTube.searchVideos (/home/pi/DiscordBot/YouTube.js:41:10)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async Bot.play_song (/home/pi/DiscordBot/Bot.js:533:26)
+Fetching the music from youtube: narcotic sound & christian D hope
+Fetching the music from youtube: Narcotic Sound & Christian D - Hope (Pascal Junior Remix)
+Getting the music from the cache: Narcotic Sound & Christian D - Hope (Pascal Junior Remix)
+Getting the music from the cache: Narcotic Sound & Christian D - Hope (Pascal Junior Remix)
+Fetching the music from youtube: https://www.youtube.com/watch?v=YyDaHPemnHY
+Youtube token 'AIzaSyB4AZ7utxv_wFYpxWX09mn4FQHCdESW5zA' expired!
+Fetching the music from youtube: https://www.youtube.com/watch?v=YyDaHPemnHY
+Youtube token 'AIzaSyBD1GESqVnBBp8U9Diz5gNbY6kqWvTvcjU' expired!
+Fetching the music from youtube: https://www.youtube.com/watch?v=YyDaHPemnHY
+Youtube token 'AIzaSyCMW6YL4_kwJVgVJYg-RaTqBCCIMIFUuQM' expired!
+Fetching the music from youtube: https://www.youtube.com/watch?v=YyDaHPemnHY
+Error: Couldn't retrieve video
+    at YouTube.searchVideos (/home/pi/DiscordBot/YouTube.js:41:10)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async Bot.play_song (/home/pi/DiscordBot/Bot.js:533:26)
+Fetching the music from youtube: Hope (Pascal Junior Remix)
+Fetching the music from youtube: https://www.youtube.com/watch?v=cs5EsYHvG5M
+Fetching the music from youtube: https://www.youtube.com/watch?v=GwniDAkU2t4
+Fetching the music from youtube: https://www.youtube.com/watch?v=N_YcD_yESk8
+Fetching the music from youtube: https://www.youtube.com/watch?v=o0PpP0ksmcI
+Fetching the music from youtube: https://www.youtube.com/watch?v=8iNylgeET4Y
+Fetching the music from youtube: https://www.youtube.com/watch?v=3TQboj-e8yI
+Fetching the music from youtube: https://www.youtube.com/watch?v=LH9WwUPfqSg
+Fetching the music from youtube: https://www.youtube.com/watch?v=djRuYwNbgdI
+Getting the music from the cache: lc waikiki
+Getting the music from the cache: TiK ToK Kesha 
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9)
+    at TLSSocket.Readable.push (internal/streams/readable.js:204:10) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+[33mWARNING:[0m ytdl-core is out of date! Update with "npm install ytdl-core@latest".
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=cYzJVZv-EWc
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 1)
+ERROR WHEN PLAYING SONG: https://www.youtube.com/watch?v=H77fRz1rybs
+MinigetError: input stream: Status code: 403
+    at ClientRequest.<anonymous> (/home/pi/DiscordBot/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:520:26)
+    at ClientRequest.emit (events.js:400:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:647:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:515:22)
+    at TLSSocket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:290:12)
+    at readableAddChunk (internal/streams/readable.js:265:9) {
+  statusCode: 403
+}
+Attempting to fix retrieving the song... (try: 2)
+Database connection closed, attempting reconnection
+Database connection established!
+Creating a voice channel connection...
+Fetching the music from youtube: James Brown - It's A Man's Man's Man's World
+Fetching the music from youtube: Willie Spence cover “Rihanna”
+(node:27616) UnhandledPromiseRejectionWarning: Error: spawn ENOMEM
+    at ChildProcess.spawn (internal/child_process.js:403:11)
+    at spawn (child_process.js:667:9)
+    at Object.spawnWithSignal [as spawn] (child_process.js:871:17)
+    at Function.create (/home/pi/DiscordBot/node_modules/prism-media/src/core/FFmpeg.js:156:25)
+    at new FFmpeg (/home/pi/DiscordBot/node_modules/prism-media/src/core/FFmpeg.js:45:27)
+    at AudioPlayer.playUnknown (/home/pi/DiscordBot/node_modules/discord.js/src/client/voice/player/BasePlayer.js:47:20)
+    at VoiceConnection.play (/home/pi/DiscordBot/node_modules/discord.js/src/client/voice/util/PlayInterface.js:71:28)
+    at Bot.play (/home/pi/DiscordBot/Bot.js:981:61)
+    at Bot.replay_track (/home/pi/DiscordBot/Bot.js:941:11)
+    at Client.on_client_message (/home/pi/DiscordBot/Event.js:142:7)
+    at emitUnhandledRejectionWarning (internal/process/promises.js:168:15)
+    at processPromiseRejections (internal/process/promises.js:247:11)
+    at processTicksAndRejections (internal/process/task_queues.js:96:32)
+(node:27616) Error: spawn ENOMEM
+    at ChildProcess.spawn (internal/child_process.js:403:11)
+    at spawn (child_process.js:667:9)
+    at Object.spawnWithSignal [as spawn] (child_process.js:871:17)
+    at Function.create (/home/pi/DiscordBot/node_modules/prism-media/src/core/FFmpeg.js:156:25)
+    at new FFmpeg (/home/pi/DiscordBot/node_modules/prism-media/src/core/FFmpeg.js:45:27)
+    at AudioPlayer.playUnknown (/home/pi/DiscordBot/node_modules/discord.js/src/client/voice/player/BasePlayer.js:47:20)
+    at VoiceConnection.play (/home/pi/DiscordBot/node_modules/discord.js/src/client/voice/util/PlayInterface.js:71:28)
+    at Bot.play (/home/pi/DiscordBot/Bot.js:981:61)
+    at Bot.replay_track (/home/pi/DiscordBot/Bot.js:941:11)
+    at Client.on_client_message (/home/pi/DiscordBot/Event.js:142:7)
+(node:27616) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+    at emitDeprecationWarning (internal/process/promises.js:180:11)
+    at processPromiseRejections (internal/process/promises.js:249:13)
+    at processTicksAndRejections (internal/process/task_queues.js:96:32)
+Getting the music from the cache: James Brown - It's A Man's Man's Man's World
+Creating a voice channel connection...
+(node:27616) UnhandledPromiseRejectionWarning: Error: spawn ENOMEM
+    at ChildProcess.spawn (internal/child_process.js:403:11)
+    at spawn (child_process.js:667:9)
+    at Object.spawnWithSignal [as spawn] (child_process.js:871:17)
+    at Function.create (/home/pi/DiscordBot/node_modules/prism-media/src/core/FFmpeg.js:156:25)
+    at new FFmpeg (/home/pi/DiscordBot/node_modules/prism-media/src/core/FFmpeg.js:45:27)
+    at AudioPlayer.playUnknown (/home/pi/DiscordBot/node_modules/discord.js/src/client/voice/player/BasePlayer.js:47:20)
+    at VoiceConnection.play (/home/pi/DiscordBot/node_modules/discord.js/src/client/voice/util/PlayInterface.js:71:28)
+    at Bot.play (/home/pi/DiscordBot/Bot.js:981:61)
+    at Bot.pupulate_song_queue (/home/pi/DiscordBot/Bot.js:415:8)
+    at runMicrotasks (<anonymous>)
+    at emitUnhandledRejectionWarning (internal/process/promises.js:168:15)
+    at processPromiseRejections (internal/process/promises.js:247:11)
+    at processTicksAndRejections (internal/process/task_queues.js:96:32)
+(node:27616) Error: spawn ENOMEM
+    at ChildProcess.spawn (internal/child_process.js:403:11)
+    at spawn (child_process.js:667:9)
+    at Object.spawnWithSignal [as spawn] (child_process.js:871:17)
+    at Function.create (/home/pi/DiscordBot/node_modules/prism-media/src/core/FFmpeg.js:156:25)
+    at new FFmpeg (/home/pi/DiscordBot/node_modules/prism-media/src/core/FFmpeg.js:45:27)
+    at AudioPlayer.playUnknown (/home/pi/DiscordBot/node_modules/discord.js/src/client/voice/player/BasePlayer.js:47:20)
+    at VoiceConnection.play (/home/pi/DiscordBot/node_modules/discord.js/src/client/voice/util/PlayInterface.js:71:28)
+    at Bot.play (/home/pi/DiscordBot/Bot.js:981:61)
+    at Bot.pupulate_song_queue (/home/pi/DiscordBot/Bot.js:415:8)
+    at runMicrotasks (<anonymous>)
+Getting the music from the cache: James Brown - It's A Man's Man's Man's World
+Creating a voice channel connection...
+(node:27616) UnhandledPromiseRejectionWarning: Error: spawn ENOMEM
+    at ChildProcess.spawn (internal/child_process.js:403:11)
+    at spawn (child_process.js:667:9)
+    at Object.spawnWithSignal [as spawn] (child_process.js:871:17)
+    at Function.create (/home/pi/DiscordBot/node_modules/prism-media/src/core/FFmpeg.js:156:25)
+    at new FFmpeg (/home/pi/DiscordBot/node_modules/prism-media/src/core/FFmpeg.js:45:27)
+    at AudioPlayer.playUnknown (/home/pi/DiscordBot/node_modules/discord.js/src/client/voice/player/BasePlayer.js:47:20)
+    at VoiceConnection.play (/home/pi/DiscordBot/node_modules/discord.js/src/client/voice/util/PlayInterface.js:71:28)
+    at Bot.play (/home/pi/DiscordBot/Bot.js:981:61)
+    at Bot.pupulate_song_queue (/home/pi/DiscordBot/Bot.js:415:8)
+    at runMicrotasks (<anonymous>)
+    at emitUnhandledRejectionWarning (internal/process/promises.js:168:15)
+    at processPromiseRejections (internal/process/promises.js:247:11)
+    at processTicksAndRejections (internal/process/task_queues.js:96:32)
+(node:27616) Error: spawn ENOMEM
+    at ChildProcess.spawn (internal/child_process.js:403:11)
+    at spawn (child_process.js:667:9)
+    at Object.spawnWithSignal [as spawn] (child_process.js:871:17)
+    at Function.create (/home/pi/DiscordBot/node_modules/prism-media/src/core/FFmpeg.js:156:25)
+    at new FFmpeg (/home/pi/DiscordBot/node_modules/prism-media/src/core/FFmpeg.js:45:27)
+    at AudioPlayer.playUnknown (/home/pi/DiscordBot/node_modules/discord.js/src/client/voice/player/BasePlayer.js:47:20)
+    at VoiceConnection.play (/home/pi/DiscordBot/node_modules/discord.js/src/client/voice/util/PlayInterface.js:71:28)
+    at Bot.play (/home/pi/DiscordBot/Bot.js:981:61)
+    at Bot.pupulate_song_queue (/home/pi/DiscordBot/Bot.js:415:8)
+    at runMicrotasks (<anonymous>)

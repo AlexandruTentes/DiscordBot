@@ -1,0 +1,4 @@
+0
+/home/pi/DiscordBot/Start.sh: 3: /home/pi/DiscordBot/Start.sh: cannot open 1: No such file
+/home/pi/DiscordBot/Start.sh: 3: /home/pi/DiscordBot/Start.sh: 0: not found
+Discord bot is already running!
